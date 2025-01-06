@@ -1,3 +1,7 @@
 # Nachengue007
 
-Buenas, me llamo Ignacio, tengo 20 años y vivo en argentina. Soy programador desde los 15 años masomenos, desde el año pasado que estoy estudiando programacion en la universidad.
+Buenas, me llamo Ignacio, tengo 21 años y vivo en Argentina. Estudio programacion desde los 15 años.
+
+En 2021 empece mis estudios universitarios en la Facultad Regional UTN de Rio Grande y tengo estimado que este año (2025) ya termino.
+
+Me dedico al desarrollo Backend con Django y Laravel, actualmente estoy estudiando Springboot.
